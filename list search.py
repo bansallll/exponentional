@@ -6,6 +6,6 @@
 z=[]
 a=int(input("list:"))
 for i in range(a):
-    c =int(input("ENTER THE NUMBER LISt"))
+    c =int(input("ENTER THE NUMBER LIST"))
     z.append(c)
 print(max(z))
