@@ -1,8 +1,8 @@
 #when list is given
-#a=[9,10,-2,65,13]
-#print(max(a))
+a=[9,10,-2,65,13]
+print(max(a))
 
-#whne list is given by user
+#when list is enter by user
 z=[]
 a=int(input("list:"))
 for i in range(a):
